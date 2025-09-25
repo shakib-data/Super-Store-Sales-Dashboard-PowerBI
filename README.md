@@ -17,9 +17,6 @@ This Power BI project presents a comprehensive **Sales Dashboard** and a **15-Da
 * Power BI Desktop
 * DAX(Data Analysis Expressions)
 * Power Query (M Language)
-
----
-
 ## 🖼️ Dashboard Preview
 
 Main Sales Dashboard
